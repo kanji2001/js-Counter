@@ -1,0 +1,24 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    min-height: 400px;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+    background: #feffea;
+    border: 3px groove transparent;
+    border-radius: 10px;
+    color: #bbb;
+}
+
+.counter h1 {
+    color: #000;
+    font-size: 24px;
+}
+
+#count {
+    font-size: 6rem;
+}
